@@ -1,5 +1,5 @@
 # Fat_Tumor_Classifier
-Using SVM and CNN to build a classifier which can determine the margin of Tumor based on Raman Spectroscopy data
+Using SVM and CNN to build a classifier which can determine the margin of Tumor based on Raman Spectroscopy data. If you are interested in the whole program. You can check the poster to get the outline
 
 ### 1. Data
 The data come from Raman spectroscopy which have already been preprocessed such as baseline correction, scatter correction and noise removal. Here, I used fluorescence corrected data. If you are interested in the data, please email me. 
